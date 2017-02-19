@@ -98,5 +98,7 @@ The loading spinner will never stop:
 Again, this only happens for some users and I can't do anything about it. If it
 affects you, I'm sorry :(
 
+Another thing that can be tried is to go into Pandora profile and view your likes.  I went from having 1/560 to having 510/560 available.  Perhaps there was a feature tweak on Pandoras side that keeps this out of the cache that is exposed through the external facing services.
+
 [1]: http://blog.pandora.com/2006/02/02/pandora_21_rss
 [2]: http://rubydoc.info/gems/pandata/frames
